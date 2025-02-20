@@ -2,9 +2,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <X3D profile="Immersive" version="3.2" xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" xsd:noNamespaceSchemaLocation="http://www.web3d.org/specifications/x3d-3.2.xsd" width="1280px"  height="1024px">
   <head>
-    <meta name="generator" content="FreeCAD"/>
-    <meta name="author" content=""/>
-    <meta name="company" content=""/>
+      <meta name="filename" content="gal.x3d"/>
+      <meta name="generator" content="FreeCAD"/>
+
+
   </head>
   <Scene>
     <Group>
